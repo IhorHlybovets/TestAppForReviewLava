@@ -1,0 +1,29 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.testing.testappforreview.MainActivity">
+    <item
+        android:id="@+id/show_all"
+        android:title="@string/show_all"
+        android:icon="@drawable/radio_button_unchecked"
+        app:showAsAction="collapseActionView" />
+
+    <item
+        android:id="@+id/show_per_hour"
+        android:title="@string/show_per_hour"
+        app:showAsAction="collapseActionView"
+        android:icon="@drawable/radio_button_unchecked"
+         />
+
+    <item
+        android:id="@+id/show_per_day"
+        android:title="@string/show_per_day"
+        android:icon="@drawable/radio_button_unchecked"
+        app:showAsAction="collapseActionView" />
+
+    <item
+        android:id="@+id/show_per_month"
+        android:title="@string/show_per_month"
+        android:icon="@drawable/radio_button_unchecked"
+        app:showAsAction="collapseActionView" />
+</menu>

@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">TestAppForReview</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="start">Start</string>
+    <string name="stop">Stop</string>
+    <string name="no_data">There\'s no notifications yet</string>
+    <string name="read_please">Read the text below</string>
+    <string name="read_please_message">For showing notifications extra permissions needed, tap \"ok\" to grant</string>
+    <string name="ok_button">OK</string>
+    <string name="dismiss_button">Cancel</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="show_all">All</string>
+    <string name="show_per_hour">Per Hour</string>
+    <string name="show_per_day">Per Day</string>
+    <string name="show_per_month">Per Month</string>
+</resources>
